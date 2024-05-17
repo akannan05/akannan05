@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://akannan05.github.io/akannan05//sitemap.xml
+Sitemap: https://akannan05.github.io/akannan05/sitemap.xml
