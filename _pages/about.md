@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Anirudh
+title: about
 permalink: /
 subtitle: CS and Applied Mathematics Student @ UCLA
 
