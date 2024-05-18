@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>I don't have a portrait yet</p>
-    <p>So enjoy a picture of Oshawott</p>
-    <p>(The best starter in the universe)</p>
+    <p>No portrait yet</p>
+    <p>So picture of Oshawott</p>
+    <p>(The best starter)</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
