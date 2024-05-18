@@ -13,15 +13,15 @@ profile:
     <p>So enjoy a picture of Oshawott</p>
     <p>(The best starter in the universe)</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 
 I am Anirudh, and welcome to my website! :metal:
 
-I'm a first year student at the University of California, Los Angeles. My current interests lie at the intersection of Computer Vision and Robotics. I want to employ robotics to solve real-world challenges in a variety of fields by enhancing their perception and decision making capabilities. Recently, I have also been learning about Reinforcement Learning (MARL in particular) and I hope to apply it to some area of controls theory in the future.
+I'm a first year undergraduate at the University of California, Los Angeles. My current interests lie at the intersection of Computer Vision and Robotics. I'm passionate about employing robotics to solve real-world challenges in a variety of fields by enhancing their perception and decision making capabilities. Recently, I have also been learning about Reinforcement Learning (MARL in particular) and I hope to apply it to some area of controls theory in the future.
 
 On this website, you can find my up to date CV, GitHub repositories, projects, and any past, present, and future courses I take. 
 
