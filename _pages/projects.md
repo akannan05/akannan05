@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects I'm currently working on, and an archive of old projects
 nav: true
 nav_order: 3
-display_categories: [academic, school, fun]
+display_categories: [personal, academic, competition, school]
 horizontal: false
 ---
 

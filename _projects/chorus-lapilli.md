@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: chorus lapilli (greek tic-tac-toe)
+description: CS35l - Software Construction Assignment 3
+img: assets/img/tictactoe.png
+importance: 2
+category: school
 ---
 
 Every project has a beautiful feature showcase page.

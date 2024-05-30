@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: user engagement forecasting
+description: Project for GES x Trustworthy AI Lab Hackathon
+img: assets/img/1.jpg
+importance: 1
+category: competition
 ---
 
 Every project has a beautiful feature showcase page.

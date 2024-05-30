@@ -2,7 +2,7 @@
 layout: page
 title: capy (ongoing)
 description: CS35L - Software Construction Final Project
-img: assets/img/proj1.jpg
+img: assets/img/capyproj.jpg
 importance: 1
 category: school
 related_publications: false

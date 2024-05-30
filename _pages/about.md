@@ -18,13 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 I am Anirudh, and welcome to my website! :metal:
 
-I'm a first year undergraduate at the University of California, Los Angeles. My current interests lie at the intersection of Computer Vision and Robotics. I'm passionate about employing robotics to solve real-world challenges in a variety of fields by enhancing their perception and decision making capabilities. Recently, I have also been learning about Reinforcement Learning (MARL in particular) and I hope to apply it to some area of controls theory in the future.
+I'm a first year undergraduate at the University of California, Los Angeles. My current interests lie at the intersection of Computer Vision and Robotics. I'm passionate about employing robotics to solve real-world challenges in a variety of fields by enhancing their perception and decision making capabilities. 
 
 On this website, you can find my up to date CV, GitHub repositories, projects, and any past, present, and future courses I take. 
 
-I'm currently planning a project for the summer in which I will be building a ground robot using Arduino and Rasberry Pi, with the end goal being autonomous control through a web application as well as face detection. I plan on updating this website occasionally with my progress along with pictures of the development.
+For the summer, I am building a rover using Arduino and Rasberry Pi, with the end goal being autonomous control through a web application as well as face detection. I plan on updating this website occasionally with my progress along with pictures of the development.
+
+I am also enthusiastic about self-learning mathematics. Currently, I am reading Tao's [Real Analysis II](https://link.springer.com/book/10.1007/978-981-19-7284-3).
 
 When I'm not in classes or working, I like to wind down by playing/watching basketball, going on hiking and backpacking trips, and working out.
