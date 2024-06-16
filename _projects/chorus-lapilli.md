@@ -1,6 +1,6 @@
 ---
 layout: page
-title: chorus lapilli (greek tic-tac-toe)
+title: chorus lapilli
 description: CS35l - Software Construction Assignment 3
 img: assets/img/tictactoe.png
 importance: 2

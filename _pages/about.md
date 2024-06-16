@@ -26,6 +26,6 @@ On this website, you can find my up to date CV, GitHub repositories, projects, a
 
 For the summer, I am building a rover using Arduino and Rasberry Pi, with the end goal being autonomous control through a web application as well as face detection. I plan on updating this website occasionally with my progress along with pictures of the development.
 
-I am also enthusiastic about self-learning mathematics. Currently, I am reading Tao's [Real Analysis II](https://link.springer.com/book/10.1007/978-981-19-7284-3).
+I am also enthusiastic about self-learning mathematics. Currently, I am reading Greene's [Introduction to Topology](https://store.doverpublications.com/products/9780486406800) and Tao's [Real Analysis II](https://link.springer.com/book/10.1007/978-981-19-7284-3).
 
 When I'm not in classes or working, I like to wind down by playing/watching basketball, going on hiking and backpacking trips, and working out.
