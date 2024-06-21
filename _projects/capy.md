@@ -1,6 +1,6 @@
 ---
 layout: page
-title: capy
+title: Capy
 description: CS35L - Software Construction Final Project
 img: assets/img/capyproj.jpg
 importance: 1
@@ -39,26 +39,39 @@ This app was developed for the final project in the Spring 2024 section of CS 35
     This is a modal view of each event where users can see comments as well as a list of users that are RSVPed, as well as comments on the event.
 </div>
 
-We utilized a simple database structure with MongoDB with two models
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-
+We utilized a simple database structure with MongoDB for two models (users and events). 
 
 {% raw %}
 
 ```javascript
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+const userSchema = new mongoose.Schema({
+    username: String,
+    password: String,
+    email: String,
+    profilePicture: Buffer,
+    friends: [{ type: String }],
+    myEvents: [{ type: String }],
+    signedUpEvents: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Event'}],
+    createdEvents: [{type: mongoose.Schema.Types.ObjectId, ref: 'Event' }],
+});
+
+const commentSchema = new mongoose.Schema({
+  user: {type: mongoose.Schema.Types.ObjectId, ref: 'User'},
+  text: {type: String}
+});
+
+const eventSchema = new mongoose.Schema({
+  user: String,
+  title: String,
+  location: String,
+  date: Date,
+  description: String,
+  datePosted: Date,
+  eventImage: Buffer,
+  usersGoing: [{ type: String }],
+  usersLiked: [{ type: String }],
+  comments: [commentSchema]
+});
 ```
 
 {% endraw %}
