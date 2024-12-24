@@ -17,4 +17,4 @@ Previously...
  
 More detailed info can be found on my CV (which I can send via [email](akannan05@g.ucla.edu)). This GitHub contains all projects that I have worked on (completed and scrapped).
 
-[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/your-user-url.png)](https://www.codeabbey.com/index/user_profile/your-user-url)
+[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/akannan05.png)](https://www.codeabbey.com/index/user_profile/akannan05)
