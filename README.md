@@ -1,6 +1,6 @@
 ## Hi! :wave: Welcome to my GitHub!
 
-I'm currently a second year undergraduate studying EE & Applied Math @ UCLA
+I'm currently a third year EE & Math undergraduate at UCLA!
 
 Currently...
 
